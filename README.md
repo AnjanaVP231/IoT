@@ -121,12 +121,5 @@ Press button → LED toggles remotely.
 
 ---
 
-## 🌍 Applications
-- Smart Home Automation  
-- Remote Switch Control  
-- Industrial Monitoring  
-- IoT Learning Projects  
-
-
 ## 📜 License
 This project is for educational purposes.
